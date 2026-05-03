@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.*;
 @RequiredArgsConstructor
 public class CodeAssistantController {
 
+	
     private final CodeAssistantService codeAssistantService;
 
     /**
